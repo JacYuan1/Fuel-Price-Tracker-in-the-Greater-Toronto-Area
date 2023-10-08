@@ -29,7 +29,7 @@ Follow these steps to get the project up and running:
    - **Help with Environment Variables:** If you need help setting up an environment variable, check out this [article](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Environment_Variables.html).
 
 ### 3. Schedule the Script
-   Set up the script to run automatically at your desired time.
+   Set up the script to run automatically at a desired time.
    - **Windows:** Use the Windows Task Scheduler. Here's a [video guide](https://www.youtube.com/watch?v=ic4lUiDTbVI) on how to do that.
    - **Mac/Linux:** Use Cron job.
 

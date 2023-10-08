@@ -33,7 +33,7 @@ Follow these steps to get the project up and running:
    - ```bash
    git clone https://github.com/your-username/Fuel-Price-Tracker-in-the-Greater-Toronto-Area.git
    
-   cd Fuel-Price-Tracker-in-the-Greater-Toronto-Area```
+   cd Fuel-Price-Tracker-in-the-Greater-Toronto-Area
 
 ### 4. Schedule the Script
    Set up the script to run automatically at a desired time.

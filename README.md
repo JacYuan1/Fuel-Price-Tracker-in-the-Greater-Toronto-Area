@@ -15,6 +15,7 @@ Ensure you have the following installed on your machine:
 3. [Requests](https://pypi.org/project/requests/)
 4. [Selenium](https://pypi.org/project/selenium/) ([Official Website](https://www.selenium.dev/documentation/webdriver/))
 5. [Discord](https://discord.com/download)
+6. [Google Chrome](https://www.google.com/chrome/)
 
 ## Setup
 
@@ -52,4 +53,5 @@ Here is an example output on a Discord channel:
 
 ## Additional Information
 
-To deploy this script on other computers, you can convert it into an executable file using [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe).
+- To deploy this script on other computers, you can convert it into an executable file using [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe).
+- By default, it is setup as Chrome for the Selenium webdriver however, there are other options such as Internet Explorer, FireFox and Safari browser. To setup as a different browser, check out this article [here](https://www.selenium.dev/documentation/webdriver/browsers/)

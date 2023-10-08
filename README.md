@@ -30,7 +30,7 @@ Follow these steps to get the project up and running:
 
 ### 3. Download the Python script
    You can either download the .py file [here]() or you can use the git clone command:
-   - ```bash
+   ```bash
    git clone https://github.com/your-username/Fuel-Price-Tracker-in-the-Greater-Toronto-Area.git
    
    cd Fuel-Price-Tracker-in-the-Greater-Toronto-Area

@@ -28,7 +28,14 @@ Follow these steps to get the project up and running:
    - **Help with Discord Webhook:** If you need help setting up a Discord webhook, check out this [article](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
    - **Help with Environment Variables:** If you need help setting up an environment variable, check out this [article](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Environment_Variables.html).
 
-### 3. Schedule the Script
+### 3. Download the Python script
+   You can either download the .py file [here]() or you can use the git clone command:
+   - ```bash
+   git clone https://github.com/your-username/Fuel-Price-Tracker-in-the-Greater-Toronto-Area.git
+   
+   cd Fuel-Price-Tracker-in-the-Greater-Toronto-Area```
+
+### 4. Schedule the Script
    Set up the script to run automatically at a desired time.
    - **Windows:** Use the Windows Task Scheduler. Here's a [video guide](https://www.youtube.com/watch?v=ic4lUiDTbVI) on how to do that.
    - **Mac/Linux:** Use Cron job. Learn more about [Cron jobs](https://www.redhat.com/sysadmin/linux-cron-command).

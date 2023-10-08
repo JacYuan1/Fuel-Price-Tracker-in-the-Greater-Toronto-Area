@@ -33,7 +33,9 @@ Follow these steps to get the project up and running:
    
    ```bash
    git clone https://github.com/your-username/Fuel-Price-Tracker-in-the-Greater-Toronto-Area.git
-   
+   ```
+
+   ```bash
    cd Fuel-Price-Tracker-in-the-Greater-Toronto-Area
    ```
 

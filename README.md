@@ -24,7 +24,7 @@ Follow these steps to get the project up and running:
    Download and install the required packages listed above.
 
 ### 2. Configure Environment Variable
-   Set up your environment variable for the Discord webhook URL. The variable name used in the code is `WEBHOOK_URL`.
+   Set up your environment variable for the Discord webhook URL as well as the webhook itself. The variable name used in the code is `WEBHOOK_URL`.
    - **Help with Discord Webhook:** If you need help setting up a Discord webhook, check out this [article](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
    - **Help with Environment Variables:** If you need help setting up an environment variable, check out this [article](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Environment_Variables.html).
 
@@ -34,6 +34,10 @@ Follow these steps to get the project up and running:
    - **Mac/Linux:** Use Cron job.
 
 ## Example Output
+
+Here is an example output on a Discord channel:
+
+![ex_image]()
 
 ## Additional Information
 

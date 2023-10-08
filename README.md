@@ -8,9 +8,9 @@ This project is the spiritual successor of the original gas scraper project foun
 
 ## Features
 
-   - Retrieves and analyzes fuel prices for the current, previous, and upcoming day from a specified webpage.
-   - Provides a summary of price trends.
-   - Sends formatted price information and summary to a Discord channel through a webhook.
+- Retrieves and analyzes fuel prices for the current, previous, and upcoming day from a specified webpage.
+- Provides a summary of price trends.
+- Sends formatted price information and summary to a Discord channel through a webhook.
 
 ## Installation Requirements
 

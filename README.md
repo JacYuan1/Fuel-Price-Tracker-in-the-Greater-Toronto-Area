@@ -29,7 +29,7 @@ Follow these steps to get the project up and running:
    - **Help with Environment Variables:** If you need help setting up an environment variable, check out this [article](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Environment_Variables.html).
 
 ### 3. Download the Python script
-   You can either download the .py file [here]() or you can use the git clone command:
+   You can either download the .py file [here](https://github.com/JacYuan1/Fuel-Price-Tracker-in-the-Greater-Toronto-Area/blob/main/Gas_Price_Script_v2.py) or you can use the git clone command:
    
    ```bash
    git clone https://github.com/your-username/Fuel-Price-Tracker-in-the-Greater-Toronto-Area.git

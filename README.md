@@ -14,7 +14,30 @@ Here are all the required links to install onto your machine before you run the 
 2. https://pip.pypa.io/en/stable/installation/#
 3. https://pypi.org/project/requests/
 4. https://pypi.org/project/selenium/ ([Can also download Selenium from the offical website](https://www.selenium.dev/documentation/webdriver/))
+5. https://discord.com/download
 
 ## Setup
 
 ### Step #1
+
+Download all the requirements listed above.
+
+### Step #2
+
+Set up your environment variable for the Discord webhook URL (the in-code name for the variable is **WEBHOOK_URL**).
+
+*Note:* If you need help setting up a Discord webhook, check out this article [here](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
+
+*Note:* If you need help setting up an environment variable, check out this article [here](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Environment_Variables.html).
+
+### Step #3
+
+To setup the script to run automatically at a desired time, use Windows Task Scheduler ([video guide on how to do that](https://www.youtube.com/watch?v=ic4lUiDTbVI).)
+
+*Note:* For Mac and Linux users, use Cron job.
+
+## Example Output
+
+## Additional Information
+
+To add it to other comptuers, you can use convert this into a executable file using [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe).

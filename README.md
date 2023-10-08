@@ -10,4 +10,4 @@ Here are all the required links to install onto your machine before you run the 
 1. https://www.python.org/downloads/
 2. https://pip.pypa.io/en/stable/installation/#
 3. https://pypi.org/project/requests/
-4. https://pypi.org/project/selenium/ [Can also download Selenium from the offical website](https://www.selenium.dev/documentation/webdriver/)
+4. https://pypi.org/project/selenium/ ([Can also download Selenium from the offical website](https://www.selenium.dev/documentation/webdriver/))

@@ -8,13 +8,13 @@ This project is the spiritual successor of the original gas scraper project foun
 
 ## Installation Requirements
 
-Here are all the required links to install onto your machine before you run the code:
+Ensure you have the following installed on your machine:
 
-1. https://www.python.org/downloads/
-2. https://pip.pypa.io/en/stable/installation/#
-3. https://pypi.org/project/requests/
-4. https://pypi.org/project/selenium/ ([Can also download Selenium from the offical website](https://www.selenium.dev/documentation/webdriver/))
-5. https://discord.com/download
+1. [Python](https://www.python.org/downloads/)
+2. [Pip](https://pip.pypa.io/en/stable/installation/#)
+3. [Requests](https://pypi.org/project/requests/)
+4. [Selenium](https://pypi.org/project/selenium/) ([Official Website](https://www.selenium.dev/documentation/webdriver/))
+5. [Discord](https://discord.com/download)
 
 ## Setup
 
@@ -31,7 +31,7 @@ Follow these steps to get the project up and running:
 ### 3. Schedule the Script
    Set up the script to run automatically at a desired time.
    - **Windows:** Use the Windows Task Scheduler. Here's a [video guide](https://www.youtube.com/watch?v=ic4lUiDTbVI) on how to do that.
-   - **Mac/Linux:** Use Cron job.
+   - **Mac/Linux:** Use Cron job. Learn more about [Cron jobs](https://www.nixtutor.com/linux/scheduling-jobs-in-linux-using-cron-and-at/).
 
 ## Example Output
 
@@ -41,4 +41,4 @@ Here is an example output on a Discord channel:
 
 ## Additional Information
 
-To add it to other comptuers, you can use convert this into a executable file using [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe).
+To deploy this script on other computers, you can convert it into an executable file using [auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe).

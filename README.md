@@ -37,7 +37,7 @@ Follow these steps to get the project up and running:
 
 Here is an example output on a Discord channel:
 
-![ex_image]()
+![ex_image](example_output.jpg)
 
 ## Additional Information
 

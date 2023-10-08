@@ -18,23 +18,20 @@ Here are all the required links to install onto your machine before you run the 
 
 ## Setup
 
-### Step #1
+Follow these steps to get the project up and running:
 
-Download all the requirements listed above.
+### 1. Install the necessary packages
+   Download and install the required packages listed above.
 
-### Step #2
+### 2. Configure Environment Variable
+   Set up your environment variable for the Discord webhook URL. The variable name used in the code is `WEBHOOK_URL`.
+   - **Help with Discord Webhook:** If you need help setting up a Discord webhook, check out this [article](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
+   - **Help with Environment Variables:** If you need help setting up an environment variable, check out this [article](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Environment_Variables.html).
 
-Set up your environment variable for the Discord webhook URL (the in-code name for the variable is **WEBHOOK_URL**).
-
-*Note:* If you need help setting up a Discord webhook, check out this article [here](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks).
-
-*Note:* If you need help setting up an environment variable, check out this article [here](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Environment_Variables.html).
-
-### Step #3
-
-To setup the script to run automatically at a desired time, use Windows Task Scheduler ([video guide on how to do that](https://www.youtube.com/watch?v=ic4lUiDTbVI).)
-
-*Note:* For Mac and Linux users, use Cron job.
+### 3. Schedule the Script
+   Set up the script to run automatically at your desired time.
+   - **Windows:** Use the Windows Task Scheduler. Here's a [video guide](https://www.youtube.com/watch?v=ic4lUiDTbVI) on how to do that.
+   - **Mac/Linux:** Use Cron job.
 
 ## Example Output
 

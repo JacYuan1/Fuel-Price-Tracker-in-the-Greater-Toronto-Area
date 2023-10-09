@@ -6,7 +6,7 @@ This project is a Python script designed to monitor and track price changes in t
 
 This project is the spiritual successor of the original gas scraper project found [here](https://github.com/JacYuan1/Gas-Price-Scraper-Project) as it is much more accurate and secure than the previous project.
 
-## Features
+## Features at a Glance
 
 - Retrieves and analyzes fuel prices for the current, previous, and upcoming day from a specified webpage.
 - Provides a summary of price trends.
